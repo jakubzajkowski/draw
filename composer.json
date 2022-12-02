@@ -1,0 +1,19 @@
+{
+    "name": "zajkowski/draw",
+    "description": "Makes terminal looking good like a rainbow.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Draw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jakub Zajkowski",
+            "email": "jakudjan123@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
